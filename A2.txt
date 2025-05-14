@@ -1,1 +1,6 @@
 modificacion del archivo A2.txt desde la rama2
+
+
+modificacion del archivo A2 de la Rama1
+
+modificacion debido a error
